@@ -6,3 +6,4 @@ import { resolve } from "path";
 export const SRC_DIR = resolve(ROOT_DIR, "src");
 export const BUILD_DIR = resolve(ROOT_DIR, "docs");
 export const DIST_DIR = resolve(ROOT_DIR, "dist");
+export const HTML_DIR = resolve(ROOT_DIR, "src/html");
